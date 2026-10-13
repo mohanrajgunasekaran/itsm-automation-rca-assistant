@@ -1,0 +1,25 @@
+incident_id,created_at,service,summary,description,priority,status,resolution_minutes,business_impact
+INC1001,2026-09-01 08:14,Authentication,SSO login failures,Users cannot sign in to the employee portal after identity provider timeout.,P1,Resolved,82,Multiple business teams unable to access internal applications.
+INC1002,2026-09-01 10:22,Network,VPN connection drops,Remote users report intermittent VPN disconnections during peak usage.,P2,Resolved,54,Remote workforce productivity reduced.
+INC1003,2026-09-02 09:03,Database,Database connection pool exhausted,Application reports database connection timeout and elevated latency.,P1,Resolved,126,Customer transactions delayed across the application.
+INC1004,2026-09-02 11:45,Monitoring,Monitoring alerts delayed,Monitoring alerts are delayed and operations team receives notifications late.,P3,Resolved,35,Reduced detection speed; no confirmed customer outage.
+INC1005,2026-09-03 07:50,Payments,Payment API complete outage,Production payment service unavailable; transactions failing for multiple customers.,P1,Resolved,97,Customer-wide payment disruption and revenue impact.
+INC1006,2026-09-03 14:05,Authentication,SSO login failures,Users cannot sign in to the employee portal after identity provider timeout.,P2,Resolved,41,Several teams temporarily unable to access internal applications.
+INC1007,2026-09-04 08:40,Network,VPN connection drops,Remote users report intermittent VPN disconnections during peak usage.,P2,Resolved,63,Remote workforce productivity reduced.
+INC1008,2026-09-05 06:20,Payments,Payment API complete outage,Production payment service unavailable; transactions failing for multiple customers.,P1,Resolved,112,Customer-wide payment disruption and revenue impact.
+INC1009,2026-09-05 12:16,Database,Database connection pool exhausted,Application reports database connection timeout and elevated latency.,P2,Resolved,58,Transaction processing degraded for one business service.
+INC1010,2026-09-06 16:18,Storage,NFS mount unavailable,Application nodes cannot mount shared NFS volume after storage path interruption.,P1,Resolved,145,Dependent application jobs failed until storage access recovered.
+INC1011,2026-09-07 09:12,Authentication,SSO login failures,Users cannot sign in to the employee portal after identity provider timeout.,P2,Resolved,47,Multiple business teams unable to access internal applications.
+INC1012,2026-09-07 15:34,Cloud Platform,Kubernetes node pool upgrade failure,Workloads remain pending after a managed node pool upgrade.,P2,Resolved,76,Deployment and batch processing delays.
+INC1013,2026-09-08 07:40,Payments,Payment API complete outage,Production payment service unavailable; transactions failing for multiple customers.,P1,Resolved,88,Customer-wide payment disruption and revenue impact.
+INC1014,2026-09-08 13:26,Database,Database connection pool exhausted,Application reports database connection timeout and elevated latency.,P2,Resolved,69,Customer transactions delayed across the application.
+INC1015,2026-09-09 10:01,Network,VPN connection drops,Remote users report intermittent VPN disconnections during peak usage.,P3,Resolved,28,Limited number of remote users affected.
+INC1016,2026-09-10 06:55,Storage,NFS mount unavailable,Application nodes cannot mount shared NFS volume after storage path interruption.,P2,Resolved,91,Scheduled jobs delayed until shared storage returned.
+INC1017,2026-09-10 14:31,Cloud Platform,Kubernetes node pool upgrade failure,Workloads remain pending after a managed node pool upgrade.,P2,Resolved,64,Deployment and batch processing delays.
+INC1018,2026-09-11 08:09,Monitoring,Monitoring alerts delayed,Monitoring alerts are delayed and operations team receives notifications late.,P3,Resolved,32,Reduced detection speed; no confirmed customer outage.
+INC1019,2026-09-12 07:10,Payments,Payment API complete outage,Production payment service unavailable; transactions failing for multiple customers.,P1,Resolved,105,Customer-wide payment disruption and revenue impact.
+INC1020,2026-09-12 12:44,Authentication,SSO login failures,Users cannot sign in to the employee portal after identity provider timeout.,P2,Resolved,52,Multiple business teams unable to access internal applications.
+INC1021,2026-09-13 09:38,Database,Database connection pool exhausted,Application reports database connection timeout and elevated latency.,P1,Resolved,119,Customer transactions delayed across the application.
+INC1022,2026-09-14 15:20,Network,VPN connection drops,Remote users report intermittent VPN disconnections during peak usage.,P2,Resolved,48,Remote workforce productivity reduced.
+INC1023,2026-09-15 06:31,Storage,NFS mount unavailable,Application nodes cannot mount shared NFS volume after storage path interruption.,P1,Resolved,133,Dependent application jobs failed until storage access recovered.
+INC1024,2026-09-16 11:05,Cloud Platform,Kubernetes node pool upgrade failure,Workloads remain pending after a managed node pool upgrade.,P2,Resolved,72,Deployment and batch processing delays.
